@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-"""Builds a dataset given a hydra config file."""
+
+""""Builds a dataset given a hydra config file."""
 
 try:
     import stackprinter
